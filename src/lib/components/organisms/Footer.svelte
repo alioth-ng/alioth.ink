@@ -2,7 +2,6 @@
 	import FooterWave from '$lib/icons/footer-wave.svelte';
 	import Socials from '$lib/components/molecules/Socials.svelte';
 	import ThemeToggle from '$lib/components/molecules/ThemeToggle.svelte';
-	import RssLink from '$lib/components/atoms/RssLink.svelte';
 </script>
 
 <footer>
@@ -10,8 +9,8 @@
 		<FooterWave />
 	</div>
 	<div class="content">
-		<div class="copyright">
-			This template was built by <a
+		<div class="credits">
+			Template by <a
 				href="https://fantinel.dev?utm_source=site-template"
 				target="_blank"
 				rel="noopener noreferrer">Matheus Fantinel</a
@@ -25,8 +24,12 @@
 		</div>
 		<div class="socials">
 			<Socials />
-			<RssLink />
 			<ThemeToggle />
+		</div>
+		<div class="credits">
+			<a href="http://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer">
+				皖ICP备2023023626号-1</a
+			>
 		</div>
 	</div>
 </footer>

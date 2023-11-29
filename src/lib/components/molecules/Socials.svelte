@@ -9,23 +9,7 @@
 
 <div class="socials">
 	<a
-		href="#"
-		target="_blank"
-		rel="noopener noreferrer"
-		title="Say Hi on Telegram"
-	>
-		<TelegramIcon />
-	</a>
-	<a
-		href="#"
-		target="_blank"
-		rel="me noreferrer"
-		title="Say Hi on Mastodon"
-	>
-		<MastodonIcon />
-	</a>
-	<a
-		href="#"
+		href="https://github.com/alioth-ng"
 		target="_blank"
 		rel="noopener noreferrer"
 		title="See my GitHub profile"
@@ -33,15 +17,7 @@
 		<GitHubIcon />
 	</a>
 	<a
-		href="#"
-		target="_blank"
-		rel="noopener noreferrer"
-		title="Connect on LinkedIn"
-	>
-		<LinkedInIcon />
-	</a>
-	<a
-		href="#"
+		href="mailto:AliothNg@outlook.com"
 		target="_blank"
 		rel="noopener noreferrer"
 		title="Send an email"
